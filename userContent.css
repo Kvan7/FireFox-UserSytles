@@ -81,14 +81,18 @@
 }
 
 @-moz-document domain(github.com) {
-
 	#repository-container-header, .application-main > div {
 		background-color: transparent !important;
+	}
+
+	body {
+		background: #f9a url(img/nebula12.jpg) center !important;
+		background-attachment: fixed !important;
 	}
 }
 
 
-@-moz-document domain(github.com), domain(canvas.unl.edu), domain(shib.unl.edu) {
+@-moz-document domain(canvas.unl.edu), domain(shib.unl.edu) {
 	body {
 		background: #f9a url(img/nebula15.jpg) center !important;
 		background-attachment: fixed !important;
