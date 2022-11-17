@@ -1,0 +1,52 @@
+@-moz-document url(about:home), url(about:newtab), url(about:privatebrowsing), url("mozilla.org") {
+    .click-target-container *, .top-sites-list * {
+        color: #fff !important ;
+        text-shadow: 2px 2px 2px #222 !important ;
+    }
+
+    body::before {
+        content: "" ;
+        z-index: -1 ;
+        position: fixed ;
+        top: 0 ;
+        left: 0 ;
+        background: #f9a no-repeat url(img/nebula15.jpg) center ;
+        background-size: cover ;
+        width: 100vw ;
+        height: 100vh ;
+    }
+	
+	.logo {
+		background: url(img/firefoxmulti-2.png) no-repeat center !important ;
+		background-image: url(img/firefoxmulti-2.png) !important ;
+		background-color: rgba(0, 0, 0, 0) !important ;
+		background-position-x: center !important ;
+		background-position-y: center !important ;
+		background-repeat: no-repeat !important ;
+		background-attachment: scroll !important ;
+		background-size: auto !important ;
+		background-origin: padding-box !important ;
+		background-clip: border-box !important ;
+		background-size: 82px !important ;
+	}
+	
+	.tile, .search-handoff-button, .top-site-outer:hover {
+		background-color: transparent !important ;
+	}
+	
+}
+/*
+	#endpoint, #center, #search, .ytd-searchbox, yt-chip-cloud-chip-renderer, a, tp-yt-paper-item, ytd-guide-entry-renderer, .ytd-menu-renderer, button, #description, #description:focus, #description:hover, ytd-menu-popup-renderer, #comment-chip-container, .ytp-popup, .ytd-popup-container, #container, ytd-engagement-panel-section-list-renderer, #thumbnail, #sync-button {
+		border-radius: 0 !important;
+	}*/
+@-moz-document domain(youtube.com) {
+
+	.style-scope:not(#avatar-btn, yt-img-shadow, #newness-dot, #active-indicator), button, .ytp-popup, .ytd-popup-container {
+		border-radius: 0 !important;
+	}
+	/*
+	#avatar-btn, yt-img-shadow {
+		border-radius:999px !important;
+	}*/
+
+}
