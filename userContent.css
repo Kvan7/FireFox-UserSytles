@@ -1,4 +1,9 @@
 @-moz-document url(about:home), url(about:newtab), url(about:privatebrowsing), url("mozilla.org") {
+	/* 	Changes new tab to be custom
+	 *	Makes the background an image
+	 *	Make the firefox icon different
+	 */
+
     .click-target-container *, .top-sites-list * {
         color: #fff !important ;
         text-shadow: 2px 2px 2px #222 !important ;
@@ -40,6 +45,7 @@
 		border-radius: 0 !important;
 	}*/
 @-moz-document domain(youtube.com) {
+	/* Modifies youtube to not have all those new rounded elements cause bad */
 
 	.style-scope:not(#avatar-btn, yt-img-shadow, #newness-dot, #active-indicator), button, .ytp-popup, .ytd-popup-container {
 		border-radius: 0 !important;
