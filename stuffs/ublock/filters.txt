@@ -1,0 +1,160 @@
+||www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js
+||washingtonpost.com/*/pwapi-proxy.min.js$script
+||subscribe.washingtonpost.com^
+
+! 2021-10-30 https://www.wowt.com
+www.wowt.com##.powa-shadow
+
+! 2022-04-24 https://www.tasteofhome.com
+www.tasteofhome.com##.jw-reset.jw-video
+www.tasteofhome.com##.jw-reset.jw-media
+www.tasteofhome.com##.non-contextual-video
+
+! 2022-05-04 https://www.wallstreetmojo.com
+www.wallstreetmojo.com###youtube-sub-block > div
+www.wallstreetmojo.com##.cookie_text
+www.wallstreetmojo.com##.hero-block__content
+www.wallstreetmojo.com##.youtube-sub-block
+
+! 2022-05-17 https://10minutemail.com
+||10minutemail.com/img/bt-ads/Devon-Ad-1000X250.gif$image
+||10minutemail.com/img/bt-ads/Devon-Ad-1000X250.gif$image
+||10minutemail.com/img/*$image
+
+! 2022-05-24 https://learn.oracle.com
+learn.oracle.com##.active.feedbackContentHolder
+learn.oracle.com##.feedback-rem-content
+
+! 2022-05-30 https://seablock.fandom.com
+||static.wikia.nocookie.net/seablock/images/b/b5/Site-background-light/revision/latest$image
+seablock.fandom.com##.pathfinder-wrapper.iysUGC.sc-hiCibw
+seablock.fandom.com##div:nth-of-type(7)
+seablock.fandom.com##.wikia-bar-anon.wikia-bar
+
+! 2022-07-08 https://www.oracle.com
+www.oracle.com##.ochat_slideout
+
+! 2022-07-08 https://www.w3schools.com
+www.w3schools.com##.ws-turquoise.codegameright.sidesection
+www.w3schools.com##div.w3-padding-16.w3-right:nth-of-type(2)
+
+! 2022-07-11 https://escapefromtarkov.fandom.com
+escapefromtarkov.fandom.com##.wikia-bar-anon.wikia-bar
+escapefromtarkov.fandom.com##.is-dark-theme.highlight__sticky-container
+
+! 2022-07-12 https://g8d5adfc3167909-db20220624152257.adb.us-phoenix-1.oraclecloudapps.com
+g8d5adfc3167909-db20220624152257.adb.us-phoenix-1.oraclecloudapps.com##.tour-data-visualization-tour.animated.hopscotch-bubble
+g8d5adfc3167909-db20220624152257.adb.us-phoenix-1.oraclecloudapps.com###hopscotch-overlay
+g8d5adfc3167909-db20220624152257.adb.us-phoenix-1.oraclecloudapps.com###overlayMessages_layer > .oj-complete.oj-messages-general
+
+! 2022-07-13 https://amazingribs.com
+||amazingribs.com/wp-content/uploads/2022/06/leader-news-promo-01-an.gif$image
+
+! 2022-07-14 https://www.tomtom.com
+www.tomtom.com##.cookie-panel--bg-dark-black.cookie-panel
+
+! 2022-07-14 https://developer.tomtom.com
+||developer.tomtom.com/static/typing-bg-84881a2e23898a35d6b1478c2f9562a2.jpg$image
+
+! 2022-07-15 https://www.tomtom.com
+www.tomtom.com##.subheader-buttons__fixed-cta > .button--bg-hoverable.button--bg-brand-red.button > .button__link
+www.tomtom.com##div.notification-panel
+
+! 2022-07-15 https://www.reddit.com
+||styles.redditmedia.com/t5_2qofj/styles/image_widget_ja4mf23718831.jpg?format=pjpg&s=c9a1fee95e5c32cdd8aeb6226710f156d70e6062$image
+
+! 2022-07-20 https://developer.nvidia.com
+||developer-blogs.nvidia.com/wp-content/uploads/2022/07/ov-dev-contest-610x345-1*.jpg$image
+developer.nvidia.com##.collapse.sidebar__inner
+developer.nvidia.com##.easy-notification-bar--collapsible.easy-notification-bar--sticky.easy-notification-bar--align_center.easy-notification-bar
+
+! 2022-08-24 https://bidawad.hibid.com
+||cdn.hibid.com/img.axd?id=7701957050&wid=&rwl=false&p=&ext=&w=1136&h=640&t=&lp=&c=true&wt=false&sz=MAX&checksum=tSMm4ldQQOSQ7h50skYa4W8DeIjgy2yYqqDhdNS0rrqfSYi1WnItOckcu68izmi5aH4x%2bbL2nX4KB5p8kJ6naDKSTRHQX79D3G8hS41yYATq7F4z8hPQantEg%2b5fDk1c$image
+
+! 2022-08-25 https://www.masterclass.com
+www.masterclass.com##.mc-tile--pointer.mc-py-4.justify-content-between.align-items-center.d-flex.container
+www.masterclass.com##.justify-content-evenly.flex-column.d-lg-flex.d-none.col-3
+www.masterclass.com##.mc-p-6.mc-bg-gray-700.mc-theme-light.offset-sm-none.offset-lg-1.col-lg-8.col-12
+www.masterclass.com##.mc-pb-9
+www.masterclass.com##.share-this-popover
+
+! 2022-08-25 https://getpdf.readbooks.link
+getpdf.readbooks.link##.in.fade.modal.reader-modal
+getpdf.readbooks.link##.in.fade.modal-backdrop
+
+! 2022-08-25 https://file.readbooks.link
+file.readbooks.link##.in.fade.modal.reader-modal
+file.readbooks.link##.in.fade.modal-backdrop
+
+! 2022-09-02 https://www.morningstar.com
+www.morningstar.com##.mdc-fund-analysis-report__pillar-card.mds-card.mdc-card
+www.morningstar.com##.mdc-fund-analysis-report__heading.mds-layout-grid.mdc-grid
+www.morningstar.com##.mdc-transparency-drawer__heading
+www.morningstar.com##.fund__section--sponsor-center.fund__section
+www.morningstar.com##.mds-button--primary.mdc-user-popover__premium-button.mds-button.mdc-button.mdc-link
+www.morningstar.com##.mdc-link--no-underline.mds-link--no-underline.mds-link.mdc-security-header__analyst-rating--locked.mdc-security-header__analyst-rating.mdc-link
+www.morningstar.com##.etf__section--sponsor-center.etf__section
+
+! 2022-09-03 https://www.amazon.com
+www.amazon.com###rvs-related-videos-5148231f-2627-4bf8-a8fb-9e7600daaf53-vse_vwdp_ingress > .a-carousel-has-buttons.a-carousel-row.a-carousel-controls.a-row > .a-carousel-row-inner
+
+! 2022-09-09 https://www.reddit.com
+www.reddit.com##._10wb7d3rGvj56Gcs4IQWL5._1FUNcfOeszr8eruqLxCMcR > div._2vEf-C2keJaBMY9qk_BxVn > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV > ._3RPJ8hHnfFohktLZca18J6
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(3) > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+www.reddit.com##._24UNt1hkbrZxLzs5vkvuDh
+
+! 2022-09-09 https://www.thedailybeast.com
+www.thedailybeast.com##.CheatSheetList__cheats
+
+! 2022-09-10 https://www.reddit.com
+www.reddit.com##._288IzKhWMb7Dw403RofBU8._2h6EM3mo5Qn9Eqm18v5Hiz._1sDiFFHKyPJghjPpVTW7vB
+
+! 2022-09-25 https://valheim-map.world
+||valheim-map.world/TemplateResources/HelpIcon.png$image
+
+! 2022-09-30 https://www.youtube.com
+www.youtube.com##.ytd-popup-container.style-scope > .yt-tooltip-renderer.style-scope
+
+! 2022-10-03 https://duckduckgo.com
+duckduckgo.com##.badge-link--newsletter.badge-link--thumbnail.js-badge-link.badge-link--serp.badge-link
+
+! 2022-10-07 https://towardsdatascience.com
+towardsdatascience.com##.abq.abp.abo.abn.abm
+towardsdatascience.com##.da.o.eq > .pc.l
+
+! 2022-10-14 https://duckduckgo.com
+duckduckgo.com##.js-results-sidebar.results--sidebar
+
+! 2022-11-03 https://cloud.oracle.com
+cloud.oracle.com##.oci-banner-list
+
+! 2022-12-09 https://stackoverflow.com
+stackoverflow.com##.py2.fs-body2.ff-sans.fc-white.bg-black-700.js-announcement-banner
+
+! 2023-02-02 https://www.geeksforgeeks.org
+www.geeksforgeeks.org###openInApp-modal
+
+! 2023-02-16 https://www.projectorcentral.com
+||www.projectorcentral.com/bc9546.htm?bid=12478&i=1&cb=02-15-2023-12-49-30&pg=Dell%2D1800MP%2Ehtm$image
+||www.projectorcentral.com/bc2427.htm?bid=12447&i=1&cb=02-15-2023-12-49-30&pg=Dell%2D1800MP%2Ehtm$image
+||www.projectorcentral.com/bc6746.htm?bid=12463&i=1&cb=02-15-2023-12-49-30&pg=Dell%2D1800MP%2Ehtm$image
+||www.projectorcentral.com/bc8082.htm?bid=12447&i=1&cb=02-15-2023-12-53-48&pg=Dell%2D1800MP%2Dprojection%2Dcalculator%2Dpro%2Ehtm$image
+||www.projectorcentral.com/bc8082.htm?bid=12447&i=1&cb=02-15-2023-12-53-48&pg=Dell%2D1800MP%2Dprojection%2Dcalculator%2Dpro%2Ehtm$image
+
+! 2023-02-18 https://www.youtube.com
+www.youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-feed-nudge-renderer.style-scope
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+www.youtube.com###thumbnail > #hover-overlays
+
+! 2023-03-03 https://www.runnersworld.com
+www.runnersworld.com##.glimmer-sticky-header
+www.runnersworld.com##.glimmer-sticky-player.vjs-hls-quality-selector.mobile-controls.vjs-core-playlist-ui.vjs-videojs-share.vjs-controls-enabled.hearstPlayer-428c5b07-258a-4e2f-a8ad-ea87a52d890b-1-dimensions.vjs-fluid.vjs-user-active.vjs-v7.vjs-workinghover.vjs-paused.vjs-big-play-centered.vjs-default-skin.video-js
+www.runnersworld.com##.e6pr2lz5.css-a5reqv
+www.runnersworld.com##.e10xr3vp5.css-1ujafpv
+
+! 2023-03-09 https://medium.com
+!medium.com##.zo.zn.zm.zl.zk
+!medium.com##.ov.ab.ou > .ad.l
+!medium.com##.ov.ab.ou
+!medium.com##.lk.bv.l
+
