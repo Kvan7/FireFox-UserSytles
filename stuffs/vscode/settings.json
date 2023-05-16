@@ -1,0 +1,202 @@
+{
+	"vscode_custom_css.imports": [
+		"file:///D:/Dev/BACKUPS/rbgvscode/rgbcode.css"
+	],
+	"workbench.colorTheme": "One Dark Pro Darker",
+	"workbench.startupEditor": "newUntitledFile",
+	"workbench.settings.openDefaultSettings": true,
+	"workbench.settings.openDefaultKeybindings": true,
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"java.semanticHighlighting.enabled": true,
+	"editor.fontWeight": "bold",
+	"python.languageServer": "Pylance",
+	"editor.tabCompletion": "on",
+	"workbench.iconTheme": "vscode-icons",
+	"vsicons.dontShowNewVersionMessage": true,
+	"explorer.confirmDelete": false,
+	"editor.fontFamily": "Consolas,  monospace",
+	"editor.formatOnSave": true,
+	"python.linting.pylintEnabled": true,
+	"python.linting.enabled": true,
+	"python.linting.pylintArgs": [
+		"--generated-members",
+		"from_json,query",
+		"--disable=E1101"
+	],
+	"python.jediEnabled": false,
+	"terminal.integrated.scrollback": 10000,
+	"java.format.settings.profile": "D:/Dev/format.xml",
+	"editor.bracketPairColorization.enabled": true,
+	"editor.guides.bracketPairs": "active",
+	"code-runner.executorMap": {
+		"python": "$pythonPath -u $fullFileName"
+	},
+	"code-runner.clearPreviousOutput": true,
+	"code-runner.showExecutionMessage": false,
+	"explorer.confirmDragAndDrop": false,
+	"git.autofetch": true,
+	"C_Cpp.updateChannel": "Insiders",
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+		// "editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"workbench.editorAssociations": {
+		"*.ipynb": "jupyter.notebook.ipynb",
+		"*.pdf": "pdf.preview"
+	},
+	"files.exclude": {
+		"**/.classpath": true,
+		"**/.project": true,
+		"**/.settings": true,
+		"**/.factorypath": true
+	},
+	"java.refactor.renameFromFileExplorer": "autoApply",
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"gitlab.instanceUrl": "https://git.unl.edu/",
+	"git.confirmSync": false,
+	"[cpp]": {
+		"editor.defaultFormatter": "ms-vscode.cpptools"
+	},
+	"[java]": {
+		"editor.defaultFormatter": "redhat.java",
+	},
+	"latex-workshop.view.pdf.viewer": "tab",
+	"[markdown]": {
+		"editor.defaultFormatter": "yzhang.markdown-all-in-one"
+	},
+	"editor.insertSpaces": false,
+	"cmake.configureOnOpen": true,
+	"editor.detectIndentation": false,
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"terminal.integrated.profiles.windows": {
+		"PowerShell": {
+			"source": "PowerShell",
+			"icon": "terminal-powershell"
+		},
+		"Command Prompt": {
+			"path": [
+				"${env:windir}\\Sysnative\\cmd.exe",
+				"${env:windir}\\System32\\cmd.exe"
+			],
+			"args": [],
+			"icon": "terminal-cmd"
+		},
+		"Git Bash": {
+			"source": "Git Bash"
+		},
+		"Debian (WSL)": {
+			"path": "C:\\WINDOWS\\System32\\wsl.exe",
+			"args": [
+				"-d",
+				"Debian"
+			]
+		},
+		"zsh (WSL)": {
+			"path": "C:\\WINDOWS\\System32\\wsl.exe",
+			"args": [
+				"-d",
+				"Debian",
+				"zsh"
+			]
+		}
+	},
+	"[python]": {
+		"editor.defaultFormatter": "ms-python.python"
+	},
+	"files.associations": {
+		"*.py": "python",
+		"*.sql": "sql",
+		"*.db": "csv",
+		"*.rmd": "markdown"
+	},
+	"editor.largeFileOptimizations": false,
+	"code-runner.runInTerminal": true,
+	"code-runner.saveFileBeforeRun": true,
+	"remoteHub.commitDirectlyWarning": "off",
+	"remote.SSH.remotePlatform": {
+		"cse.unl.edu": "linux",
+		"csce.unl.edu": "linux",
+		"129.146.107.7": "linux",
+		"192.168.1.66": "linux",
+		"192.168.1.45": "linux",
+		"129.146.17.196": "linux",
+		"150.136.252.61": "linux",
+		"localhost": "linux",
+		"150.136.141.251": "linux",
+		"129.213.122.218": "linux",
+		"193.122.176.25": "linux",
+		"129.80.142.221": "linux",
+		"crane.unl.edu": "linux",
+		"192.168.69.3": "linux",
+		"192.168.69.4": "linux"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"leetcode.workspaceFolder": "d:\\Dev\\C++\\leet",
+	"leetcode.defaultLanguage": "cpp",
+	"leetcode.hint.configWebviewMarkdown": false,
+	"leetcode.hint.commentDescription": false,
+	"leetcode.hint.commandShortcut": false,
+	"json.schemas": [],
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"oracledevtools.bookmarkFileFolder": "C:\\Users\\kvanv\\Oracle\\oracle.oracledevtools",
+	"oracledevtools.download.otherFolder": "C:\\Users\\kvanv\\downloads",
+	"oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\kvanv\\Oracle\\network\\admin",
+	"oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\kvanv\\Oracle\\network\\admin",
+	"editor.suggest.showMethods": true,
+	"editor.suggest.preview": true,
+	"editor.acceptSuggestionOnEnter": "on",
+	"editor.snippetSuggestions": "top",
+	"jupyter.askForKernelRestart": false,
+	"notebook.lineNumbers": "on",
+	"jupyter.widgetScriptSources": [
+		"jsdelivr.com",
+		"unpkg.com"
+	],
+	"terminal.integrated.enableMultiLinePasteWarning": false,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"vim.disableExtension": true,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"latex-utilities.message.update.show": false,
+	"latex-workshop.latex.autoBuild.run": "onSave",
+	"security.workspace.trust.untrustedFiles": "open",
+	"advancedNewFile.exclude": {
+		"node_modules": true,
+	},
+	"githubPullRequests.createOnPublishBranch": "never",
+	"hediet.vscode-drawio.codeLinkActivated": false,
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"window.autoDetectHighContrast": false,
+	"telemetry.telemetryLevel": "off",
+	"tabnine.experimentalAutoImports": true,
+	"svelte.enable-ts-plugin": true,
+	"svelte.plugin.svelte.note-new-transformation": false,
+	"editor.stickyScroll.enabled": true,
+	"gitlens.gitCommands.skipConfirmations": [
+		"fetch:command",
+		"switch:command",
+		"stash-push:command"
+	],
+	"git.openRepositoryInParentFolders": "never",
+	"editor.inlineSuggest.enabled": true,
+	"github.copilot.enable": {
+		"*": true,
+		"yaml": false,
+		"plaintext": false,
+		"markdown": true
+	},
+	"python.analysis.extraPaths": [
+		"C:/Users/kvanv/miniconda3/envs/tf/lib/site-packages",
+		"C:/Users/kvanv/miniconda3/envs/tf/lib/site-packages/keras"
+	],
+	"terminal.integrated.fontFamily": "MesloLGS NF",
+	"terminal.integrated.defaultProfile.linux": "zsh"
+}
