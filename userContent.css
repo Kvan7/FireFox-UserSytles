@@ -109,7 +109,7 @@
 	
 	body {
 	/*	background: #f9a url(img/nebula12.jpg) center !important; */
-		background: no-repeat center  url(https://clearvision.github.io/images/sapphire.jpg) !important; 
+		background: no-repeat center  url(img/sapphire.jpg) !important; 
 		background-attachment: fixed !important;
 		background-size: cover !important;
 		--sk_primary_foreground: 209,210,211;
