@@ -1,0 +1,32 @@
+@-moz-document domain(chat.openai.com) {
+
+	header~div,
+	main>div>div>div,
+	main>div>div>div>div>div {
+		background-color: transparent !important;
+	}
+	main {
+		background-color: rgba(0, 0, 0, 0.5) !important;
+	}
+
+	header~div>div>div {
+		padding: 0.5rem !important;
+		border-radius: 0.5rem !important;
+	}
+	header~div:nth-child(odd)>div>div{
+		background: rgba(64, 64, 64, 0.5) !important;
+	}
+	
+	header~div:nth-child(even)>div>div{
+		background: rgba(22, 163, 74, 0.3) !important;
+	}
+	
+	.border-b {
+		border-bottom-width: 0px !important;
+	}
+	
+	body {
+		background: #f9a url(../img/greenStag1.png) center !important;
+		background-attachment: fixed !important;
+	}
+}
