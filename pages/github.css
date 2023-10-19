@@ -1,0 +1,12 @@
+@-moz-document domain(github.com) {
+
+	#repository-container-header,
+	.application-main>div {
+		background-color: transparent !important;
+	}
+
+	body {
+		background: #f9a url(../img/nebula12.jpg) center !important;
+		background-attachment: fixed !important;
+	}
+}

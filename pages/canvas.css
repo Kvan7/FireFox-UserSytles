@@ -1,0 +1,25 @@
+@-moz-document domain(canvas.unl.edu) {
+
+	/* body {
+		background: #f9a url(img/nebula15.jpg) center !important;
+		background-attachment: fixed !important;
+	} */
+	.large.ic-Dashboard-header__layout,
+	#context_modules_sortable_container,
+	.header-bar,
+	#breadcrumbs {
+		background-color: transparent !important;
+	}
+
+	.ig-header {
+		border-radius: 0.25rem !important;
+	}
+}
+
+@-moz-document domain(canvas.unl.edu), domain(shib.unl.edu) {
+	body {
+		background: #f9a url(../img/nebula18.jpg) center !important;
+		background-color: rgba(0, 0, 0, 0.3) !important;
+		background-attachment: fixed !important;
+	}
+}

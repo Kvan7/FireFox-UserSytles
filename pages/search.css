@@ -1,0 +1,8 @@
+@-moz-document domain(search.kvan.dev) {
+
+	.title,
+	footer,
+	#links_on_top {
+		visibility: hidden;
+	}
+}

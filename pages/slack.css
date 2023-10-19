@@ -1,0 +1,96 @@
+
+@-moz-document domain(app.slack.com) {
+
+	body {
+		/*	background: #f9a url(img/nebula12.jpg) center !important; */
+		background: no-repeat center url(../img/sapphire.jpg) !important;
+		background-attachment: fixed !important;
+		background-size: cover !important;
+		--sk_primary_foreground: 209, 210, 211;
+		--sk_primary_background: 8, 74, 32 !important;
+		--sk_inverted_foreground: 8, 74, 32 !important;
+		--sk_inverted_background: 209, 210, 211;
+		--sk_foreground_max: 232, 232, 232;
+		--sk_foreground_high: 232, 232, 232;
+		--sk_foreground_mid: 232, 232, 232;
+		--sk_foreground_low: 232, 232, 232;
+		--sk_foreground_soft: 232, 232, 232;
+		--sk_foreground_min: 232, 232, 232;
+		--sk_foreground_max_solid: 171, 171, 173;
+		--sk_foreground_high_solid: 129, 131, 133;
+		--sk_foreground_mid_solid: 81, 84, 87;
+		--sk_foreground_low_solid: 53, 55, 59;
+		--sk_foreground_soft_solid: 36, 39, 42;
+		--sk_foreground_min_solid: 4, 36, 16 !important;
+		--sk_highlight: 29, 155, 209;
+		--sk_highlight_hover: 64, 179, 228;
+		--sk_highlight_accent: 29, 155, 209;
+		--sk_secondary_highlight: 242, 199, 68;
+	}
+
+	.p-theme_background,
+	.c-scrollbar__hider,
+	.p-view_contents--primary,
+	.workspace__primary_view_footer {
+		background: transparent !important;
+	}
+
+	.p-client_workspace {
+		margin: 2em !important;
+	}
+
+	.p-view_contents--primary {
+		margin-left: 1em !important;
+	}
+
+	.p-view_contents--sidebar {
+		margin-right: 1em !important;
+		border-right: 0px !important;
+	}
+
+	.p-resizer {
+		display: none !important;
+	}
+
+	.p-client_workspace__layout {
+		border: 0px !important;
+	}
+
+	.p-view_contents--primary,
+	.p-view_contents--sidebar {
+		border-radius: 6px !important;
+		background-color: rgba(0, 0, 0, 0.3) !important;
+	}
+
+	.p-view_header {
+		border-top-left-radius: 6px !important;
+	}
+
+	.workspace__primary_view_footer {
+		border-bottom-left-radius: 6px !important;
+	}
+
+	.p-client_container {
+		background-color: rgba(0, 0, 0, 0.6) !important;
+	}
+
+	.c-message_kit__background.c-message_kit__message {
+		border-radius: 6px !important;
+		margin: 10px !important;
+	}
+
+	.p-degraded_list__loading,
+	.c-message_kit__background.c-message_kit__message {
+		background: inherit !important;
+	}
+
+	.p-bookmarks_bar {
+		border-bottom-left-radius: 6px !important;
+		border-bottom-right-radius: 6px !important;
+	}
+
+	.c-message_list__day_divider {
+		/*display: none !important;*/
+		visibility: hidden !important;
+	}
+}

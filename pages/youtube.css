@@ -1,0 +1,31 @@
+/*
+	#endpoint, #center, #search, .ytd-searchbox, yt-chip-cloud-chip-renderer, a, tp-yt-paper-item, ytd-guide-entry-renderer, .ytd-menu-renderer, button, #description, #description:focus, #description:hover, ytd-menu-popup-renderer, #comment-chip-container, .ytp-popup, .ytd-popup-container, #container, ytd-engagement-panel-section-list-renderer, #thumbnail, #sync-button {
+		border-radius: 0 !important;
+	}*/
+@-moz-document domain(youtube.com) {
+	/* Modifies youtube to not have all those new rounded elements cause bad */
+
+	/* Unrounds elements except dots and profile pictures */
+	.style-scope:not(#avatar-btn, yt-img-shadow, #newness-dot, #active-indicator),
+	button,
+	.ytp-popup,
+	.ytd-popup-container {
+		border-radius: 0 !important;
+	}
+
+	.button.style-scope.ytd-text-inline-expander#expand,
+	.button.style-scope.ytd-text-inline-expander#collapse {
+		color: #00adee !important;
+	}
+
+	#description,
+	#description:hover {
+		background-color: #111111 !important;
+	}
+
+	/*
+		#avatar-btn, yt-img-shadow {
+			border-radius:999px !important;
+		}*/
+
+}
